@@ -24,13 +24,15 @@ To analyze mobile sales data and identify key patterns in customer behavior, top
 mobile-sales-data-report/
 │
 ├── data/
-│   └── mobile_sales.csv
+│ └── Mobile Sales Data.xlsx
 │
 ├── dashboard/
-│   └── Mobile_Sales_Dashboard.pbix
+│ └── mobile_data.pbix
 │
 ├── images/
-│   └── mobile_dashboard_preview.png
+│ ├── mobile_dashboard_preview.png
+│ ├── mobile_dashboard_preview2.png
+│ └── mobile_dashboard_preview3.png
 │
 └── README.md
 ```
